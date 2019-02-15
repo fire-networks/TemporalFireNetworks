@@ -7,9 +7,9 @@ This repository was created to publish the code for the analysis in [1]. It is m
 
 ## Data
 
-As detailed in [1] this project uses the ** last version (C6) of MODIS ** from the Aqua and Terra satellites, operated by the National Aeronautics and Space Administration (NASA). The time interval is between 01 January 2003 and 31 January 2018 and the region under study is a portion of the Amazon basin, that is located between longitude 70W, 50W and latitude 15S, 5N. 
+As detailed in [1] this project uses the **last version (C6) of MODIS** from the Aqua and Terra satellites, operated by the National Aeronautics and Space Administration (NASA). The time interval is between 01 January 2003 and 31 January 2018 and the region under study is a portion of the Amazon basin, that is located between longitude 70W, 50W and latitude 15S, 5N. 
 
-The [Chronets_7days-2003-01-to-2018-02.zip](Chronets_7days-2003-01-to-2018-02.zip) file contains the set of temporal ** Chronets ** (chronological networks), of the 15 years of data divide by time frames of 7 days.
+The [Chronets_7days-2003-01-to-2018-02.zip](Chronets_7days-2003-01-to-2018-02.zip) file contains the set of temporal **Chronets** (chronological networks), of the 15 years of data divide by time frames of 7 days.
 
 
 # References
